@@ -4,4 +4,6 @@ India is growing at a fast pace and the government has to  take/make well inform
 
 This talk was presented at Bangpypers' Feb 2016 meetup - http://www.meetup.com/BangPypers/events/225109029/
 
+Link to slides - http://slides.com/nischalhp/analyzing-open-data#/
+
 To know more about us check out : http://www.unnati.xyz
